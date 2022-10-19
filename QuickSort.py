@@ -32,7 +32,6 @@ def partition(array, low, high):
 
 def quickSort(array, low, high):
 	if low < high:
-
 		# Find pivot element such that
 		# element smaller than pivot are on the left
 		# element greater than pivot are on the right
