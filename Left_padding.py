@@ -7,4 +7,3 @@ v3 = "Sarki"
 print(v1.zfill(10))
 print(v2.zfill(10))
 print(v3.zfill(10))
-
