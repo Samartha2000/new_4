@@ -19,4 +19,3 @@ def isempty():
 
 def peak():
     return stack[-1]
-
